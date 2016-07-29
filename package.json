@@ -1,0 +1,23 @@
+{
+  "name": "twt-sso",
+  "version": "1.0.0",
+  "description": "TwT SSO Library for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyupe/twt-sso-node.git"
+  },
+  "keywords": [
+    "twt",
+    "sso"
+  ],
+  "author": "Innpaul Zhang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhyupe/twt-sso-node/issues"
+  },
+  "homepage": "https://github.com/zhyupe/twt-sso-node#readme"
+}
