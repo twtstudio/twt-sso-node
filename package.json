@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/zhyupe/twt-sso-node#readme",
   "dependencies": {
-    "base64-url": "^1.3.2",
+    "base64-url": "^2.2.0",
     "request": "^2.74.0"
   }
 }
