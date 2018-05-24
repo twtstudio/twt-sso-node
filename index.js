@@ -40,7 +40,7 @@ class TwTSSO {
       if (err) {
         callback(err, null)
       } else if (res.statusCode !== 200) {
-        callback('http status ' + res.statusCode, null)
+        callback(new Error('http status ' + res.statusCode), null)
       } else {
         try {
           var data = JSON.parse(body)
