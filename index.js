@@ -4,7 +4,7 @@ const request = require('request')
 const base64 = require('base64-url')
 const crypto = require('crypto')
 
-const server = 'login.twtstudio.com'
+const server = 'login.twt.edu.cn'
 
 class TwTSSO {
   constructor (appid, appkey, https) {
